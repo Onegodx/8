@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-//Миньков Владимир 6_2 14 вариант базовый уровень
+//Миньков Владимир 8 14 вариант базовый уровень
 namespace LinkedListWpfExample
 {
     public partial class MainWindow : Window
